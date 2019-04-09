@@ -31,3 +31,7 @@
 - '南瓜书PumpkinBook - 《机器学习》（西瓜书）公式推导解析' by Datawhale  
     - 在线：https://datawhalechina.github.io/pumpkin-book/#/
     - Github：[datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
+    
+    
+# 深度学习
+- “《深度学习框架PyTorch：入门与实践》代码” by Yun Chen GitHub: https://github.com/chenyuntc/PyTorch-book
