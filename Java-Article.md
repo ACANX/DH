@@ -9,6 +9,7 @@
 - 《高并发Java（9）：锁的优化和注意事项》 http://www.importnew.com/21353.html
 - Java读取文件夹大小的6种方法及代码 http://www.codeceo.com/article/6-ways-java-direct.html
 - Java实现文件压缩与解压[zip格式,gzip格式] http://www.codeceo.com/article/java-zip-gzip.html
+- 使用Java 8的Stream API列出ZIP文件中的条目  http://www.codeceo.com/article/java-8-stream-api-zip-file.html
 - Java 8 日期/时间（Date Time）API指南  http://www.codeceo.com/article/java-8-date-time-api.html
 - Java8 Lambda表达式和流操作如何让你的代码变慢5倍  http://www.codeceo.com/article/java8-lambda-slow-5-times.html
 - 《跟上 Java 8 – 你忽略了的新特性》    http://www.importnew.com/26144.html
@@ -26,7 +27,7 @@
     
 - Program Creek 网站的Java教程  一图胜千言， 图解  https://www.programcreek.com/
 
-
+- 《使用 JMX 来获取 CPU 利用率和 GC 所占用的 CPU 利用率》 http://www.importnew.com/25978.html
 - 《并发编程 – Concurrent 用户指南》 http://www.importnew.com/26461.html
 
 - Java Web系列：Spring依赖注入基础  http://www.codeceo.com/article/java-web-spring-di.html
@@ -45,13 +46,19 @@
 - Spring入门篇 http://www.imooc.com/learn/196?from=itblog
 - 《Spring高级应用之注入各类集合》 http://www.importnew.com/20881.html
 - 《Redis+Spring缓存实例（windows环境，附实例源码及详解）》  http://www.importnew.com/19315.html
+- 《Mybatis 缓存特性的使用及源码分析》 http://www.importnew.com/25836.html
+
+# Mybatis
+- Java Mybatis 框架入门教程 http://www.codeceo.com/article/java-mybatis-learn.html
+- 《关于 Mybatis的 $ 和 # , 你真的知道他们的细节吗?》 http://www.importnew.com/25791.html
+- 《Mybatis处理列名—字段名映射(一) — 驼峰式命名映射》 http://www.importnew.com/25871.html
 
 # Spring Boot
 - Spring Boot应用的部署，简单到令人吃惊 http://www.imooc.com/article/20333
 - SSM到Spring Boot-从零开发校园商铺平台 https://coding.imooc.com/class/144.html?mc_marking=5b1a214f789eb6436c8dbe32a27880c5&mc_channel=weibo
 - 基于Spring Boot的天气预报服务 http://www.imooc.com/article/20253
 - 实战中深入学习微框架Spring Boot：http://www.imooc.com/topic/springboot?mc_marking=39475c17dfed6cd52189dc177597c125&mc_channel=ztsina
-
+- 《SpringBoot(三) ：Spring boot 中 Redis 的使用》 http://www.importnew.com/25786.html
 
 
 # Java面试 
