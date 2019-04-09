@@ -12,7 +12,7 @@
 - Java 8 日期/时间（Date Time）API指南  http://www.codeceo.com/article/java-8-date-time-api.html
 - Java8 Lambda表达式和流操作如何让你的代码变慢5倍  http://www.codeceo.com/article/java8-lambda-slow-5-times.html
 - Java Socket 编程指南 http://www.codeceo.com/article/java-socket-programming.html
-
+- Socket开发框架之数据传输协议 http://www.codeceo.com/article/socket-framework-data-transfer.html
 - 《java提高篇之异常(下)》 http://www.importnew.com/20645.html
 - JUnit 源码解析 http://www.importnew.com/27896.html
 
@@ -73,7 +73,9 @@
 
 - Android小案例 - 内部存储（文件） https://www.shiyanlou.com/courses/394
 - Android小案例 - 轻量化存储（Shared Preference） https://www.shiyanlou.com/courses/396
-
-
+- Android反编译工具的合集 https://github.com/Juude/droidReverse
+- 支持Android图文混排、文字环绕图片等效果  https://github.com/hongyangAndroid/MixtureTextView
+![PIC1](https://ww1.sinaimg.cn/mw690/bca65a60gw1ev9ztwatnrg20cy0ik4et.gif)  
+![PIC2](https://ww4.sinaimg.cn/mw690/bca65a60gw1ev9ztyoueuj20mc0n0n3y.jpg)  
 
 
