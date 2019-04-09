@@ -1,7 +1,7 @@
 
 # Java 技术文章
 
-
+- Java编程语言（新版）”实验报告——Java 运算符 https://www.shiyanlou.com/courses/reports/533978
 - 《200 行 Java 代码搞定计算器程序》  http://www.importnew.com/27762.html
 - 《从字节码层面看“HelloWorld”》 http://www.importnew.com/21010.html
 - 《高并发Java（4）：无锁》 http://www.importnew.com/21282.html
@@ -11,6 +11,7 @@
 - Java实现文件压缩与解压[zip格式,gzip格式] http://www.codeceo.com/article/java-zip-gzip.html
 - Java 8 日期/时间（Date Time）API指南  http://www.codeceo.com/article/java-8-date-time-api.html
 - Java8 Lambda表达式和流操作如何让你的代码变慢5倍  http://www.codeceo.com/article/java8-lambda-slow-5-times.html
+- 《跟上 Java 8 – 你忽略了的新特性》    http://www.importnew.com/26144.html
 - Java Socket 编程指南 http://www.codeceo.com/article/java-socket-programming.html
 - Socket开发框架之数据传输协议 http://www.codeceo.com/article/socket-framework-data-transfer.html
 - 《java提高篇之异常(下)》 http://www.importnew.com/20645.html
@@ -21,16 +22,27 @@
     - ②.Java实现消息摘要算法加密:http://www.imooc.com/learn/286
     - ③.JAVA实现对称加密:http://www.imooc.com/learn/287
     - ④.JAVA实现非对称加密:http://www.imooc.com/learn/288
-    
+ - 搞定Java加解密 http://www.imooc.com/course/programdetail/pid/23?from=weibo   
     
 - Program Creek 网站的Java教程  一图胜千言， 图解  https://www.programcreek.com/
+
+
+- 《并发编程 – Concurrent 用户指南》 http://www.importnew.com/26461.html
 
 - Java Web系列：Spring依赖注入基础  http://www.codeceo.com/article/java-web-spring-di.html
 
 - Web网站压力及性能测试 https://segmentfault.com/a/1190000011469759
 
+- Java工程师养成计划 http://www.imooc.com/course/programdetail/pid/31?from=itblog
+
+- 每个Java程序员需要了解的8个Java开发工具
+- Java开发者写SQL时常犯的10个错误  1、不用PreparedStatements；2、返回太多列；3、把JOIN当做了SELECT的子句；4、使用ANSI 92标准之前连接语法；5、使用LIKE判定时忘了ESCAPE；6、认为 NOT (A IN (X, Y)) 和 IN (X, Y) 的布尔值相反...
+
+
 
 # Spring
+- Spring基础知识汇总 http://www.imooc.com/article/1309
+- Spring入门篇 http://www.imooc.com/learn/196?from=itblog
 - 《Spring高级应用之注入各类集合》 http://www.importnew.com/20881.html
 - 《Redis+Spring缓存实例（windows环境，附实例源码及详解）》  http://www.importnew.com/19315.html
 
@@ -60,7 +72,12 @@
 # 爬虫
 - 玩大数据一定用得到的19款Java开源Web爬虫   http://t.cn/RcMP3U5
 
+# 大数据
+- 《手把手教你 Spark 性能调优》 http://www.importnew.com/26541.html
 
+
+# 其他
+- 《Californium 开源框架分析（ 入门篇 ）》 http://www.importnew.com/26192.html
 
 # Android笔记
 - 倒腾了一个范特西的侧边栏切换效果 https://github.com/mzule/FantasySlide
@@ -78,4 +95,7 @@
 ![PIC1](https://ww1.sinaimg.cn/mw690/bca65a60gw1ev9ztwatnrg20cy0ik4et.gif)  
 ![PIC2](https://ww4.sinaimg.cn/mw690/bca65a60gw1ev9ztyoueuj20mc0n0n3y.jpg)  
 
-
+- Android攻城狮初养成（二） 
+    - ①.Android攻城狮的第一门课（入门
+    - ②.Android中常用高级控件详解汇总：
+    - ③.Android中的消息提示、菜单与动画：
