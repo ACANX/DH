@@ -3,19 +3,24 @@
 
 - Java编程语言（新版）”实验报告——Java 运算符 https://www.shiyanlou.com/courses/reports/533978
 - 《200 行 Java 代码搞定计算器程序》  http://www.importnew.com/27762.html
+- 《ArrayList 底层数组扩容原理》 http://www.importnew.com/27489.html
+- 《并发一枝花之 CopyOnWriteArrayList》 http://www.importnew.com/27118.html
 - 《从字节码层面看“HelloWorld”》 http://www.importnew.com/21010.html
 - 《高并发Java（4）：无锁》 http://www.importnew.com/21282.html
 - 《高并发Java（8）：NIO和AIO》  http://www.importnew.com/21341.html
 - 《高并发Java（9）：锁的优化和注意事项》 http://www.importnew.com/21353.html
 - Java读取文件夹大小的6种方法及代码 http://www.codeceo.com/article/6-ways-java-direct.html
+- Java使用内存映射实现大文件的上传 http://www.codeceo.com/article/java-big-file-upload.html
 - Java实现文件压缩与解压[zip格式,gzip格式] http://www.codeceo.com/article/java-zip-gzip.html
 - 使用Java 8的Stream API列出ZIP文件中的条目  http://www.codeceo.com/article/java-8-stream-api-zip-file.html
 - Java 8 日期/时间（Date Time）API指南  http://www.codeceo.com/article/java-8-date-time-api.html
 - Java8 Lambda表达式和流操作如何让你的代码变慢5倍  http://www.codeceo.com/article/java8-lambda-slow-5-times.html
 - 《跟上 Java 8 – 你忽略了的新特性》    http://www.importnew.com/26144.html
+- 使用 Java 8 Optional 的正确姿势  http://www.codeceo.com/article/java8-optional.html
 - Java Socket 编程指南 http://www.codeceo.com/article/java-socket-programming.html
 - Socket开发框架之数据传输协议 http://www.codeceo.com/article/socket-framework-data-transfer.html
 - 《java提高篇之异常(下)》 http://www.importnew.com/20645.html http://www.codeceo.com/article/jdbc-dal.html
+
 
 - 《Java 函数调用是传值还是传引用？从字节码角度来看看 ！》 http://www.importnew.com/25601.html
 - 使用JDBC构建简单的数据访问层  http://www.codeceo.com/article/jdbc-dal.html
@@ -33,12 +38,18 @@
 
 - 《使用 JMX 来获取 CPU 利用率和 GC 所占用的 CPU 利用率》 http://www.importnew.com/25978.html
 - 《并发编程 – Concurrent 用户指南》 http://www.importnew.com/26461.html
+- 《高并发Java（5）：JDK并发包1》 http://www.importnew.com/21288.html
+- 《高并发Java（6）：JDK并发包2》 http://www.importnew.com/21303.html
+- 《高并发Java（7）：并发设计模式》 http://www.importnew.com/21312.html
+
+- 《Java 线程池框架核心代码分析》 http://www.importnew.com/27586.html
 
 - Java Web系列：Spring依赖注入基础  http://www.codeceo.com/article/java-web-spring-di.html
 - Java Servlet完全教程 http://www.codeceo.com/article/java-servlet-course.html
 - 《Java Selenium (四) 使用浏览器调试工具》 http://www.importnew.com/25454.html
 - Web网站压力及性能测试 https://segmentfault.com/a/1190000011469759
 
+- 《Jodd 一 款优雅的 Java 工具集》 http://www.importnew.com/26456.html
 - 基于 POI 封装 ExcelUtil 精简的 Excel 导入导出 https://my.oschina.net/yzChen/blog/906570
 - 如何使用Kotlin开发微服务 https://my.oschina.net/wangyan9110/blog/906126
 - 《再谈 websocket 论架构设计》 http://www.importnew.com/28036.html
@@ -50,6 +61,7 @@
 - 《MySQL中的重做日志（redo log），回滚日志（undo log），以及二进制日志（binlog）的简单总结》 http://www.importnew.com/28039.html
 
 
+- 《Tomcat5.5(6.0)配置-多域名绑定和虚拟目录》 http://www.importnew.com/21364.html 
 - 【如何实现一个分布式RPC框架】 https://segmentfault.com/a/1190000010039999
 - 《一个轻量级分布式 RPC 框架 — NettyRpc》 http://www.importnew.com/24689.html
 - 【阿里云 Ubuntu PHP7 Nginx Mysql 开发环境搭建】 https://segmentfault.com/a/1190000009916409
@@ -64,8 +76,9 @@
 - 构建一个基于 Spring 的 RESTful Web Service  http://www.codeceo.com/article/spring-restful-web-service.html
 - Java Spring中同时访问多种不同数据库 http://www.codeceo.com/article/working-with-multiple-databases-in-spring.html#0-qzone-1-69153-d020d2d2a4e8d1a374a433f596ad1440
 
+- 《Spring源码分析：非懒加载的单例Bean初始化前后的一些操作》 
 - 《Spring 中的懒加载与事务 – 排坑记录》 http://www.importnew.com/25381.html
-
+- 《聊一聊 Spring 中的线程安全性》 http://www.importnew.com/27440.html
 
 # Mybatis
 - Java Mybatis 框架入门教程 http://www.codeceo.com/article/java-mybatis-learn.html
@@ -75,9 +88,13 @@
 - 《Mybatis关联查询（嵌套查询）》 http://www.importnew.com/24624.html
 - 《Mybatis实现数据的增删改查（CRUD）》  http://www.importnew.com/24591.html
 - 《【MyBatis源码分析】Configuration加载（上篇）》  http://www.importnew.com/24563.html
+- 《就是让你懂 Spring 中 Mybatis 的花样配置》 http://www.importnew.com/27207.html
 
-
+# Spring MVC
+- 《Spring MVC REST异常处理最佳实践（上）》 http://www.importnew.com/21278.html
+- 《Spring MVC REST异常处理最佳实践（下）》 http://www.importnew.com/21280.html
 # Spring Boot
+- 《Spring Boot Starter 介绍》 http://www.importnew.com/27101.html
 - Spring Boot应用的部署，简单到令人吃惊 http://www.imooc.com/article/20333
 - SSM到Spring Boot-从零开发校园商铺平台 https://coding.imooc.com/class/144.html?mc_marking=5b1a214f789eb6436c8dbe32a27880c5&mc_channel=weibo
 - 基于Spring Boot的天气预报服务 http://www.imooc.com/article/20253
@@ -93,9 +110,11 @@
 - 《SpringBoot (一) ：入门篇》 http://www.importnew.com/25761.html
 - 《SpringBoot(二) ：web综合开发》 http://www.importnew.com/25768.html
 - 《SpringBoot(三) ：Spring boot 中 Redis 的使用》 http://www.importnew.com/25786.html
+- 《SpringBoot(五) ：spring data jpa 的使用》 http://www.importnew.com/25862.html
+- 《SpringBoot ( 八 ) ：RabbitMQ 详解》 http://www.importnew.com/25928.html
 
 - spring boot / cloud (一) 使用filter防止XSS   https://my.oschina.net/wangkang80/blog/908070
-
+- 《深入Spring Boot: 那些注入不了的 Spring 占位符（${} 表达式）》 http://www.importnew.com/25940.html
 # Spring Cloud
 - Spring Cloud构建微服务架构：分布式配置中心【Dalston版】 https://segmentfault.com/a/1190000010180245
 
@@ -113,6 +132,7 @@
 
 # HTTPS
 - 全民 https 时代，为你盘点关于免费 SSL 证书的那些事儿 https://weibo.com/ttarticle/p/show?id=2309404194593678711948
+- 【更快更安全，HTTPS 优化总结】 https://segmentfault.com/a/1190000013380916
 
 # 爬虫
 - 玩大数据一定用得到的19款Java开源Web爬虫   http://t.cn/RcMP3U5
@@ -126,6 +146,9 @@
 # 其他
 - 《Californium 开源框架分析（ 入门篇 ）》 http://www.importnew.com/26192.html
 - 跟着 Github 学习 Restful HTTP API 设计 http://www.codeceo.com/learn-restful-http-api-design.html
+- 《zookeeper 入门系列 – 理论基础 – zab 协议》 http://www.importnew.com/28433.html
+- 《Redis 内存淘汰机制》 http://blog.jobbole.com/105335/
+- 《Java消息队列-Spring整合ActiveMQ》 http://www.importnew.com/24097.html
 
 # Android笔记
 - 倒腾了一个范特西的侧边栏切换效果 https://github.com/mzule/FantasySlide
