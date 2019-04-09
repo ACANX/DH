@@ -4,8 +4,11 @@
 - Java编程语言（新版）”实验报告——Java 运算符 https://www.shiyanlou.com/courses/reports/533978
 - 《200 行 Java 代码搞定计算器程序》  http://www.importnew.com/27762.html
 - 《ArrayList 底层数组扩容原理》 http://www.importnew.com/27489.html
+- 《图解集合 2 ：LinkedList》 http://www.importnew.com/25023.html
 - 《并发一枝花之 CopyOnWriteArrayList》 http://www.importnew.com/27118.html
 - 《从字节码层面看“HelloWorld”》 http://www.importnew.com/21010.html
+- 《GC算法基础》 http://www.importnew.com/21193.html
+- 《Java垃圾回收机制》 http://www.importnew.com/21218.html
 - 《高并发Java（4）：无锁》 http://www.importnew.com/21282.html
 - 《高并发Java（8）：NIO和AIO》  http://www.importnew.com/21341.html
 - 《高并发Java（9）：锁的优化和注意事项》 http://www.importnew.com/21353.html
@@ -19,8 +22,12 @@
 - 使用 Java 8 Optional 的正确姿势  http://www.codeceo.com/article/java8-optional.html
 - Java Socket 编程指南 http://www.codeceo.com/article/java-socket-programming.html
 - Socket开发框架之数据传输协议 http://www.codeceo.com/article/socket-framework-data-transfer.html
+- 《java提高篇之异常（上）》 http://www.importnew.com/20629.html
 - 《java提高篇之异常(下)》 http://www.importnew.com/20645.html http://www.codeceo.com/article/jdbc-dal.html
 
+- 《NIO学习–核心概念与基本读写》  http://www.importnew.com/20784.html
+- 《多个线程之间共享数据的方式》 http://www.importnew.com/20861.html
+- 《一道面试题比较synchronized和读写锁》  http://www.importnew.com/20865.html
 
 - 《Java 函数调用是传值还是传引用？从字节码角度来看看 ！》 http://www.importnew.com/25601.html
 - 使用JDBC构建简单的数据访问层  http://www.codeceo.com/article/jdbc-dal.html
@@ -38,11 +45,15 @@
 
 - 《使用 JMX 来获取 CPU 利用率和 GC 所占用的 CPU 利用率》 http://www.importnew.com/25978.html
 - 《并发编程 – Concurrent 用户指南》 http://www.importnew.com/26461.html
+- 《高并发Java（3）：Java内存模型和线程安全》http://www.importnew.com/21245.html
 - 《高并发Java（5）：JDK并发包1》 http://www.importnew.com/21288.html
 - 《高并发Java（6）：JDK并发包2》 http://www.importnew.com/21303.html
 - 《高并发Java（7）：并发设计模式》 http://www.importnew.com/21312.html
 
+- 《Java并发编程实战（2）：synchronized》 http://www.importnew.com/20978.html
+- 《Java并发编程实战（3）：“J.U.C”—锁，lock》   http://www.importnew.com/20997.html
 - 《Java 线程池框架核心代码分析》 http://www.importnew.com/27586.html
+- 《并发性能优化 ： 降低锁粒度》 http://www.importnew.com/20920.html(
 
 - Java Web系列：Spring依赖注入基础  http://www.codeceo.com/article/java-web-spring-di.html
 - Java Servlet完全教程 http://www.codeceo.com/article/java-servlet-course.html
@@ -60,7 +71,8 @@
 - Java开发者写SQL时常犯的10个错误  1、不用PreparedStatements；2、返回太多列；3、把JOIN当做了SELECT的子句；4、使用ANSI 92标准之前连接语法；5、使用LIKE判定时忘了ESCAPE；6、认为 NOT (A IN (X, Y)) 和 IN (X, Y) 的布尔值相反...
 - 《MySQL中的重做日志（redo log），回滚日志（undo log），以及二进制日志（binlog）的简单总结》 http://www.importnew.com/28039.html
 
-
+- 《用Maven部署war包到远程Tomcat服务器》 http://www.importnew.com/21047.html
+- 《粗浅看 Tomcat系统架构分析》 http://www.importnew.com/21112.html
 - 《Tomcat5.5(6.0)配置-多域名绑定和虚拟目录》 http://www.importnew.com/21364.html 
 - 【如何实现一个分布式RPC框架】 https://segmentfault.com/a/1190000010039999
 - 《一个轻量级分布式 RPC 框架 — NettyRpc》 http://www.importnew.com/24689.html
@@ -79,7 +91,9 @@
 - 《Spring源码分析：非懒加载的单例Bean初始化前后的一些操作》 
 - 《Spring 中的懒加载与事务 – 排坑记录》 http://www.importnew.com/25381.html
 - 《聊一聊 Spring 中的线程安全性》 http://www.importnew.com/27440.html
-
+- 《Spring源码分析：配置文件读取流程》 http://www.importnew.com/24446.html
+- 《Spring高级应用之注入嵌套Bean》 http://www.importnew.com/20956.html
+- 《Spring中ApplicationContext的事件机制》 http://www.importnew.com/20890.html
 # Mybatis
 - Java Mybatis 框架入门教程 http://www.codeceo.com/article/java-mybatis-learn.html
 - 《关于 Mybatis的 $ 和 # , 你真的知道他们的细节吗?》 http://www.importnew.com/25791.html
@@ -125,6 +139,8 @@
 - 3、Java面试题整理：http://www.imooc.com/article/19234
 - 4、Java线程池相关知识点总结：http://www.imooc.com/article/19226
 - 5、Java开发电商平台：http://www.imooc.com/topic/javaecom?mc_marking=e042bad938a5b3c5e409e0a6eb6f2472&mc_channel=ztsina
+- 《HR问你上一份工作是因为什么离职，你怎么回答？（附方法）》  http://design.jobbole.com/124954/
+
 
 # Elasticsearch
 - 在 Java 应用程序中使用 Elasticsearch http://www.codeceo.com/article/java-use-elasticsearch.html
@@ -146,9 +162,25 @@
 # 其他
 - 《Californium 开源框架分析（ 入门篇 ）》 http://www.importnew.com/26192.html
 - 跟着 Github 学习 Restful HTTP API 设计 http://www.codeceo.com/learn-restful-http-api-design.html
+- 《zookeeper入门系列：概述》 http://www.importnew.com/24411.html
 - 《zookeeper 入门系列 – 理论基础 – zab 协议》 http://www.importnew.com/28433.html
 - 《Redis 内存淘汰机制》 http://blog.jobbole.com/105335/
 - 《Java消息队列-Spring整合ActiveMQ》 http://www.importnew.com/24097.html
+- 《分布式系统常见的事务处理机制》 http://www.importnew.com/24340.html
+- 《千万千万不要运行的 Linux 命令》 http://blog.jobbole.com/110923/ 
+- 《MYSQL入门全套》数据库（Database） http://blog.jobbole.com/104809/
+- 《新出炉的 100+ 篇技术热文，在WX热传，别错过哦》 http://blog.jobbole.com/104362/
+    - 2016-8-11 11:08 来自 微博 weibo.com 7月的10篇 Java 热文推荐《通信协议——HTTP、TCP、UDP》O通信协议——HTTP、TCP、UDP  《高并发性能调试经验分享》O高并发性能调试经验分享 《能够提高开发效率的Eclipse实用操作》O能够提高开发效率的Eclipse实用操作 ......
+
+- 《聊聊Socket、TCP/IP、HTTP、FTP及网络编程》  http://www.importnew.com/?p=20290
+- 《程序员离职后的代码没人敢接手 ：15 张令人喷饭的 IT 趣图（第4季）》 http://blog.jobbole.com/103464/
+- 《学 Vim 时希望早点知道的建议》 http://blog.jobbole.com/103343/
+- 《如果有人让你推荐前端技术书，请让他看这个列表》  http://web.jobbole.com/86734/
+- 《如果有人让你推荐Python技术书，请让他看这个列表》  http://python.jobbole.com/85620/
+
+
+
+
 
 # Android笔记
 - 倒腾了一个范特西的侧边栏切换效果 https://github.com/mzule/FantasySlide
@@ -172,7 +204,10 @@
     - ③.Android中的消息提示、菜单与动画：
 
 - Android 官方发布了 SQLite DAO 库 Room：使用简单，支持编译时验证等  https://developer.android.google.cn/topic/libraries/architecture/room.html
-    
+- 《Android 资源大全》 https://github.com/jobbole/awesome-android-cn
+- 《ViewPager+Fragment LazyLoad 最优解》  http://android.jobbole.com/83606/
+- 《基于 CoreText 实现的高性能 UITableView》  http://ios.jobbole.com/86851/
+ 
 # Go语言
 - 用Go语言创建Windows窗口程序  http://www.codeceo.com/article/go-create-window.html
 - 基于Go语言快速构建RESTful API服务 https://my.oschina.net/zijingshanke/blog/907955
