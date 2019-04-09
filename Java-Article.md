@@ -15,7 +15,11 @@
 - 《跟上 Java 8 – 你忽略了的新特性》    http://www.importnew.com/26144.html
 - Java Socket 编程指南 http://www.codeceo.com/article/java-socket-programming.html
 - Socket开发框架之数据传输协议 http://www.codeceo.com/article/socket-framework-data-transfer.html
-- 《java提高篇之异常(下)》 http://www.importnew.com/20645.html
+- 《java提高篇之异常(下)》 http://www.importnew.com/20645.html http://www.codeceo.com/article/jdbc-dal.html
+
+- 《Java 函数调用是传值还是传引用？从字节码角度来看看 ！》 http://www.importnew.com/25601.html
+- 使用JDBC构建简单的数据访问层  http://www.codeceo.com/article/jdbc-dal.html
+
 - JUnit 源码解析 http://www.importnew.com/27896.html
 
 - Java加解密课程合集
@@ -31,8 +35,13 @@
 - 《并发编程 – Concurrent 用户指南》 http://www.importnew.com/26461.html
 
 - Java Web系列：Spring依赖注入基础  http://www.codeceo.com/article/java-web-spring-di.html
-
+- Java Servlet完全教程 http://www.codeceo.com/article/java-servlet-course.html
+- 《Java Selenium (四) 使用浏览器调试工具》 http://www.importnew.com/25454.html
 - Web网站压力及性能测试 https://segmentfault.com/a/1190000011469759
+
+- 基于 POI 封装 ExcelUtil 精简的 Excel 导入导出 https://my.oschina.net/yzChen/blog/906570
+- 如何使用Kotlin开发微服务 https://my.oschina.net/wangyan9110/blog/906126
+
 
 - Java工程师养成计划 http://www.imooc.com/course/programdetail/pid/31?from=itblog
 
@@ -41,25 +50,51 @@
 
 
 
+- 【如何实现一个分布式RPC框架】 https://segmentfault.com/a/1190000010039999
+- 《一个轻量级分布式 RPC 框架 — NettyRpc》 http://www.importnew.com/24689.html
+- 【阿里云 Ubuntu PHP7 Nginx Mysql 开发环境搭建】 https://segmentfault.com/a/1190000009916409
+- CentOS7搭建 Hadoop + HBase + Zookeeper集群 https://my.oschina.net/kolbe/blog/908526
+- 你需要了解的 nginx 基础配置 https://segmentfault.com/a/1190000009518544
+
 # Spring
 - Spring基础知识汇总 http://www.imooc.com/article/1309
 - Spring入门篇 http://www.imooc.com/learn/196?from=itblog
 - 《Spring高级应用之注入各类集合》 http://www.importnew.com/20881.html
 - 《Redis+Spring缓存实例（windows环境，附实例源码及详解）》  http://www.importnew.com/19315.html
-- 《Mybatis 缓存特性的使用及源码分析》 http://www.importnew.com/25836.html
+- 构建一个基于 Spring 的 RESTful Web Service  http://www.codeceo.com/article/spring-restful-web-service.html
+
+
+- 《Spring 中的懒加载与事务 – 排坑记录》 http://www.importnew.com/25381.html
+
 
 # Mybatis
 - Java Mybatis 框架入门教程 http://www.codeceo.com/article/java-mybatis-learn.html
 - 《关于 Mybatis的 $ 和 # , 你真的知道他们的细节吗?》 http://www.importnew.com/25791.html
 - 《Mybatis处理列名—字段名映射(一) — 驼峰式命名映射》 http://www.importnew.com/25871.html
+- 《Mybatis 缓存特性的使用及源码分析》 http://www.importnew.com/25836.html
+
 
 # Spring Boot
 - Spring Boot应用的部署，简单到令人吃惊 http://www.imooc.com/article/20333
 - SSM到Spring Boot-从零开发校园商铺平台 https://coding.imooc.com/class/144.html?mc_marking=5b1a214f789eb6436c8dbe32a27880c5&mc_channel=weibo
 - 基于Spring Boot的天气预报服务 http://www.imooc.com/article/20253
 - 实战中深入学习微框架Spring Boot：http://www.imooc.com/topic/springboot?mc_marking=39475c17dfed6cd52189dc177597c125&mc_channel=ztsina
+
+- 《 Spring Boot 快速入门》 http://www.importnew.com/25371.html
+- 《Spring Boot 开发 Web 应用》 http://www.importnew.com/25385.html
+- 《Spring Boot 日志管理》 http://www.importnew.com/25485.html
+- 《Spring Boot 多数据源配置与使用》 http://www.importnew.com/25474.html
+- 《 Spring中使用JdbcTemplate访问数据库 》 http://www.importnew.com/25415.html
+- 《Spring Boot 中使用 Spring-data-jpa 让数据访问更简单、更优雅》 http://www.importnew.com/25451.html
+
+- 《SpringBoot (一) ：入门篇》 http://www.importnew.com/25761.html
+- 《SpringBoot(二) ：web综合开发》 http://www.importnew.com/25768.html
 - 《SpringBoot(三) ：Spring boot 中 Redis 的使用》 http://www.importnew.com/25786.html
 
+- spring boot / cloud (一) 使用filter防止XSS   https://my.oschina.net/wangkang80/blog/908070
+
+# Spring Cloud
+- Spring Cloud构建微服务架构：分布式配置中心【Dalston版】 https://segmentfault.com/a/1190000010180245
 
 # Java面试 
 - 最全Spring面试71题与答案：IOC+AOP+事务+Bean装配+注解  https://www.itcodemonkey.com/article/13787.html
@@ -82,6 +117,8 @@
 # 大数据
 - 《手把手教你 Spark 性能调优》 http://www.importnew.com/26541.html
 
+# Kafka
+- 《Kafka 基本原理》 http://www.importnew.com/24677.html
 
 # 其他
 - 《Californium 开源框架分析（ 入门篇 ）》 http://www.importnew.com/26192.html
@@ -106,3 +143,17 @@
     - ①.Android攻城狮的第一门课（入门
     - ②.Android中常用高级控件详解汇总：
     - ③.Android中的消息提示、菜单与动画：
+
+- Android 官方发布了 SQLite DAO 库 Room：使用简单，支持编译时验证等  https://developer.android.google.cn/topic/libraries/architecture/room.html
+    
+# Go语言
+- 用Go语言创建Windows窗口程序  http://www.codeceo.com/article/go-create-window.html
+- 基于Go语言快速构建RESTful API服务 https://my.oschina.net/zijingshanke/blog/907955
+
+
+
+
+
+
+
+
