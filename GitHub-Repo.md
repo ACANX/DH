@@ -23,6 +23,8 @@
 
 # 其他
 
+# Git
+- 《Git游记》 上集： https://juejin.im/post/5c22056551882518fc5fe294
 
 # 机器学习
 
