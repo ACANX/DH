@@ -41,13 +41,13 @@
 
 - 基于 POI 封装 ExcelUtil 精简的 Excel 导入导出 https://my.oschina.net/yzChen/blog/906570
 - 如何使用Kotlin开发微服务 https://my.oschina.net/wangyan9110/blog/906126
-
+- 《再谈 websocket 论架构设计》 http://www.importnew.com/28036.html
 
 - Java工程师养成计划 http://www.imooc.com/course/programdetail/pid/31?from=itblog
 
 - 每个Java程序员需要了解的8个Java开发工具
 - Java开发者写SQL时常犯的10个错误  1、不用PreparedStatements；2、返回太多列；3、把JOIN当做了SELECT的子句；4、使用ANSI 92标准之前连接语法；5、使用LIKE判定时忘了ESCAPE；6、认为 NOT (A IN (X, Y)) 和 IN (X, Y) 的布尔值相反...
-
+- 《MySQL中的重做日志（redo log），回滚日志（undo log），以及二进制日志（binlog）的简单总结》 http://www.importnew.com/28039.html
 
 
 - 【如何实现一个分布式RPC框架】 https://segmentfault.com/a/1190000010039999
@@ -62,7 +62,7 @@
 - 《Spring高级应用之注入各类集合》 http://www.importnew.com/20881.html
 - 《Redis+Spring缓存实例（windows环境，附实例源码及详解）》  http://www.importnew.com/19315.html
 - 构建一个基于 Spring 的 RESTful Web Service  http://www.codeceo.com/article/spring-restful-web-service.html
-
+- Java Spring中同时访问多种不同数据库 http://www.codeceo.com/article/working-with-multiple-databases-in-spring.html#0-qzone-1-69153-d020d2d2a4e8d1a374a433f596ad1440
 
 - 《Spring 中的懒加载与事务 – 排坑记录》 http://www.importnew.com/25381.html
 
@@ -72,6 +72,9 @@
 - 《关于 Mybatis的 $ 和 # , 你真的知道他们的细节吗?》 http://www.importnew.com/25791.html
 - 《Mybatis处理列名—字段名映射(一) — 驼峰式命名映射》 http://www.importnew.com/25871.html
 - 《Mybatis 缓存特性的使用及源码分析》 http://www.importnew.com/25836.html
+- 《Mybatis关联查询（嵌套查询）》 http://www.importnew.com/24624.html
+- 《Mybatis实现数据的增删改查（CRUD）》  http://www.importnew.com/24591.html
+- 《【MyBatis源码分析】Configuration加载（上篇）》  http://www.importnew.com/24563.html
 
 
 # Spring Boot
@@ -122,6 +125,7 @@
 
 # 其他
 - 《Californium 开源框架分析（ 入门篇 ）》 http://www.importnew.com/26192.html
+- 跟着 Github 学习 Restful HTTP API 设计 http://www.codeceo.com/learn-restful-http-api-design.html
 
 # Android笔记
 - 倒腾了一个范特西的侧边栏切换效果 https://github.com/mzule/FantasySlide
