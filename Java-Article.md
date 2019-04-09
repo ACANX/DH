@@ -131,6 +131,7 @@
 - 《深入Spring Boot: 那些注入不了的 Spring 占位符（${} 表达式）》 http://www.importnew.com/25940.html
 # Spring Cloud
 - Spring Cloud构建微服务架构：分布式配置中心【Dalston版】 https://segmentfault.com/a/1190000010180245
+- 微服务架构为什么需要配置中心？ https://weibo.com/ttarticle/p/show?id=2309404359180503884034
 
 # Java面试 
 - 最全Spring面试71题与答案：IOC+AOP+事务+Bean装配+注解  https://www.itcodemonkey.com/article/13787.html
